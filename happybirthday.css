@@ -1,0 +1,43 @@
+body{
+	background-color: #CAF5CF;
+}
+
+.whitee{
+	background-color: white;
+	height: 600px;
+	width: 1100px;
+	position: relative;
+	top: 100px;
+	left: 200px;
+	bottom: 100px;
+	border-radius: 100px;
+}
+
+h1{
+	color: white;
+	position: relative;
+	bottom: 570px;
+	text-align:center;
+	font-family: helvetica;
+}
+
+#skibidi{
+	font-family: Comic Sans MS;
+	position: relative;
+	bottom: 300px;
+	text-align: center;
+}
+
+#trust{
+	font-family: Comic San MS;
+	font-size: 50 px;
+	background-color: white;
+	color: #19FA42;
+	border-radius: 5px;
+	border: solid 1px black;
+	position: relative;
+	bottom: 200px;
+	left: 700px;
+	height: 50px;
+	width: 100px;
+	}
